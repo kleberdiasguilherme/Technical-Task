@@ -1,0 +1,78 @@
+2023-09-22 17:31:10,061 - Tarefa programada iniciada
+2023-09-22 17:31:10,085 - Arquivo copiado com sucesso!
+2023-09-22 17:31:10,091 - Arquivo copiado com sucesso!
+2023-09-22 17:31:10,101 - Arquivo copiado com sucesso!
+2023-09-22 17:31:10,106 - Arquivo copiado com sucesso!
+2023-09-22 17:31:10,114 - Arquivo copiado com sucesso!
+2023-09-22 17:31:10,114 - Tarefa concluída
+2023-09-22 17:31:20,116 - Tarefa programada iniciada
+2023-09-22 17:31:20,128 - Arquivo copiado com sucesso!
+2023-09-22 17:31:20,131 - Arquivo copiado com sucesso!
+2023-09-22 17:31:20,139 - Arquivo copiado com sucesso!
+2023-09-22 17:31:20,141 - Arquivo copiado com sucesso!
+2023-09-22 17:31:20,144 - Arquivo copiado com sucesso!
+2023-09-22 17:31:20,145 - Tarefa concluída
+2023-09-22 17:31:30,146 - Tarefa programada iniciada
+2023-09-22 17:31:30,164 - Arquivo copiado com sucesso!
+2023-09-22 17:31:30,170 - Arquivo copiado com sucesso!
+2023-09-22 17:31:30,177 - Arquivo copiado com sucesso!
+2023-09-22 17:31:30,184 - Arquivo copiado com sucesso!
+2023-09-22 17:31:30,187 - Arquivo copiado com sucesso!
+2023-09-22 17:31:30,188 - Tarefa concluída
+2023-09-22 17:31:40,189 - Tarefa programada iniciada
+2023-09-22 17:31:40,205 - Arquivo copiado com sucesso!
+2023-09-22 17:31:40,210 - Arquivo copiado com sucesso!
+2023-09-22 17:31:40,215 - Arquivo copiado com sucesso!
+2023-09-22 17:31:40,219 - Arquivo copiado com sucesso!
+2023-09-22 17:31:40,224 - Arquivo copiado com sucesso!
+2023-09-22 17:31:40,224 - Tarefa concluída
+2023-09-22 17:31:50,226 - Tarefa programada iniciada
+2023-09-22 17:31:50,244 - Arquivo copiado com sucesso!
+2023-09-22 17:31:50,253 - Arquivo copiado com sucesso!
+2023-09-22 17:31:50,255 - Arquivo copiado com sucesso!
+2023-09-22 17:31:50,266 - Arquivo copiado com sucesso!
+2023-09-22 17:31:50,274 - Arquivo copiado com sucesso!
+2023-09-22 17:31:50,274 - Tarefa concluída
+2023-09-22 17:33:25,492 - Tarefa programada iniciada
+2023-09-22 17:33:25,494 - Arquivo removido
+2023-09-22 17:33:25,494 - Arquivo removido
+2023-09-22 17:33:25,495 - Arquivo removido
+2023-09-22 17:33:25,496 - Arquivo removido
+2023-09-22 17:33:25,504 - Arquivo copiado com sucesso!
+2023-09-22 17:33:25,507 - Arquivo copiado com sucesso!
+2023-09-22 17:33:25,513 - Arquivo copiado com sucesso!
+2023-09-22 17:33:25,516 - Arquivo copiado com sucesso!
+2023-09-22 17:33:25,520 - Arquivo copiado com sucesso!
+2023-09-22 17:33:25,522 - Tarefa concluída
+2023-09-22 17:40:58,681 - Tarefa programada iniciada
+2023-09-22 17:40:58,684 - Arquivo removido : pagina_0.txt
+2023-09-22 17:40:58,686 - Arquivo removido : pdf.py
+2023-09-22 17:40:58,687 - Arquivo removido : pdf1.pdf
+2023-09-22 17:40:58,690 - Arquivo removido : pdf2.pdf
+2023-09-22 17:40:58,702 - Arquivo copiado com sucesso!: Data Science do zero - Primeiras regras.pdf
+2023-09-22 17:40:58,706 - Arquivo copiado com sucesso!: MODERN DATA STACK.pdf
+2023-09-22 17:40:58,711 - Arquivo copiado com sucesso!: Python para desenvolvedores.pdf
+2023-09-22 17:40:58,716 - Arquivo copiado com sucesso!: pythonlearn.pdf
+2023-09-22 17:40:58,720 - Arquivo copiado com sucesso!: pythonlearnPython para Todos.pdf
+2023-09-22 17:40:58,721 - Tarefa concluída
+2023-09-22 17:41:08,722 - Tarefa programada iniciada
+2023-09-22 17:41:08,730 - Arquivo copiado com sucesso!: Data Science do zero - Primeiras regras.pdf
+2023-09-22 17:41:08,735 - Arquivo copiado com sucesso!: MODERN DATA STACK.pdf
+2023-09-22 17:41:08,739 - Arquivo copiado com sucesso!: Python para desenvolvedores.pdf
+2023-09-22 17:41:08,742 - Arquivo copiado com sucesso!: pythonlearn.pdf
+2023-09-22 17:41:08,747 - Arquivo copiado com sucesso!: pythonlearnPython para Todos.pdf
+2023-09-22 17:41:08,747 - Tarefa concluída
+2023-09-22 17:41:18,748 - Tarefa programada iniciada
+2023-09-22 17:41:18,752 - Arquivo copiado com sucesso!: Data Science do zero - Primeiras regras.pdf
+2023-09-22 17:41:18,754 - Arquivo copiado com sucesso!: MODERN DATA STACK.pdf
+2023-09-22 17:41:18,758 - Arquivo copiado com sucesso!: Python para desenvolvedores.pdf
+2023-09-22 17:41:18,761 - Arquivo copiado com sucesso!: pythonlearn.pdf
+2023-09-22 17:41:18,763 - Arquivo copiado com sucesso!: pythonlearnPython para Todos.pdf
+2023-09-22 17:41:18,763 - Tarefa concluída
+2023-09-22 17:41:28,764 - Tarefa programada iniciada
+2023-09-22 17:41:28,775 - Arquivo copiado com sucesso!: Data Science do zero - Primeiras regras.pdf
+2023-09-22 17:41:28,780 - Arquivo copiado com sucesso!: MODERN DATA STACK.pdf
+2023-09-22 17:41:28,785 - Arquivo copiado com sucesso!: Python para desenvolvedores.pdf
+2023-09-22 17:41:28,789 - Arquivo copiado com sucesso!: pythonlearn.pdf
+2023-09-22 17:41:28,794 - Arquivo copiado com sucesso!: pythonlearnPython para Todos.pdf
+2023-09-22 17:41:28,794 - Tarefa concluída
